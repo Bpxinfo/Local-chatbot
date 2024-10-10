@@ -1,0 +1,2 @@
+models/nomic-embed-text-v1.5/Meta-Llama-3-8B-Instruct.Q4_0.gguf filter=lfs diff=lfs merge=lfs -text
+models/nomic-embed-text-v1.5/Nous-Hermes-2.gguf filter=lfs diff=lfs merge=lfs -text
