@@ -1,0 +1,3 @@
+[submodule "models/nomic-embed-text-v1.5"]
+	path = models/nomic-embed-text-v1.5
+	url = https://huggingface.co/nomic-ai/nomic-embed-text-v1.5

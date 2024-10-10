@@ -1,0 +1,12 @@
+os-sys
+einops
+logging
+torch
+gpt4all
+langchain_community
+transformers
+scikit-learn
+numpy
+pymupdf
+multiprocessing
+sentence-transformers
